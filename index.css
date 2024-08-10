@@ -1,5 +1,14 @@
 body{background:#222;overflow:hidden;}
 
+.power{
+    position: absolute; top: 90px; left: 40%;
+}
+
+.enbici{
+    text-align: center;
+    font-family: arial;
+}
+
 @-moz-keyframes nieve{	
 	from{top:-40px;}
     to{top:101%;}
